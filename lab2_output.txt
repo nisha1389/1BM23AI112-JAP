@@ -1,0 +1,20 @@
+Autoboxing:
+Boxed Integer: 10
+Boxed Character: L
+Boxed Byte: 100
+Boxed Short: 900
+Boxed Long: 300000
+Boxed Float: 17.5
+Boxed Double: 30.5
+Boxed Boolean: true
+
+Unboxing:
+Unboxed Integer: 10
+Unboxed Character: L
+Unboxed Byte: 100
+Unboxed Short: 900
+Unboxed Long: 300000
+Unboxed Float: 17.5
+Unboxed Double: 30.5
+Unboxed Boolean: true
+

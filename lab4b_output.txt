@@ -1,0 +1,16 @@
+Enter Name of student 1:
+nisha
+Enter Marks of student 1:
+90
+nisha has scored a total of: 90
+Enter Name of student 2:
+pooja
+Enter Marks of student 2:
+98
+pooja has scored a total of: 98
+Enter Name of student 3:
+lishika
+Enter Marks of student 3:
+95
+lishika has scored a total of: 95
+Enter Name of student 4:

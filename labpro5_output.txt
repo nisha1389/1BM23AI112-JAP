@@ -1,0 +1,16 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Users\Admin\Desktop\IntelliJ IDEA Community Edition 2024.3.4\lib\idea_rt.jar=52736" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjectsjjjjhjhjhjhkjllkkhjgjfhdgsagdbbnkpoiupooiiu\Product\out\production\Product Main
+Added: Phone
+Added: Sneakers
+Added: Notebook
+
+--- Product Inventory ---
+Name: Phone, Price: $699.99, Category: Electronics
+Name: Sneakers, Price: $89.99, Category: Footwear
+Name: Notebook, Price: $2.99, Category: Stationery
+Removed: Sneakers
+
+--- Product Inventory ---
+Name: Phone, Price: $699.99, Category: Electronics
+Name: Notebook, Price: $2.99, Category: Stationery
+
+Process finished with exit code 0

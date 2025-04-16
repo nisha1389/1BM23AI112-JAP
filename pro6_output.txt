@@ -1,0 +1,12 @@
+C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Users\Admin\Desktop\IntelliJ IDEA Community Edition 2024.3.4\lib\idea_rt.jar=52988" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjectsjjjjhjhjhjhkjllkkhjgjfhdgsagdbbnkpoiupooiiu\PharmacyManagementSystem\out\production\PharmacyManagementSystem PharmacyManagementSystem
+Item id: 101, Quantity: 100, Price: 5000
+Item id: 102, Quantity: 500, Price: 7000
+
+Item found!
+
+
+After removing item number 101 : 
+
+Item id: 102, Quantity: 500, Price: 7000
+
+Process finished with exit code 0
